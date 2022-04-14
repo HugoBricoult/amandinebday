@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/amandinebday/static/css/main.a2c4aae7.css",
+    "main.js": "/amandinebday/static/js/main.530256de.js",
+    "static/js/787.99ae6fb7.chunk.js": "/amandinebday/static/js/787.99ae6fb7.chunk.js",
+    "static/media/texte.png": "/amandinebday/static/media/texte.a1eae61dc2b13920ed1e.png",
+    "static/media/Pinguin.png": "/amandinebday/static/media/Pinguin.5b064c3eb277aeeb5ddc.png",
+    "static/media/rebu.png": "/amandinebday/static/media/rebu.834e52297cbfaa37e241.png",
+    "index.html": "/amandinebday/index.html",
+    "main.a2c4aae7.css.map": "/amandinebday/static/css/main.a2c4aae7.css.map",
+    "main.530256de.js.map": "/amandinebday/static/js/main.530256de.js.map",
+    "787.99ae6fb7.chunk.js.map": "/amandinebday/static/js/787.99ae6fb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c4aae7.css",
+    "static/js/main.530256de.js"
+  ]
+}
